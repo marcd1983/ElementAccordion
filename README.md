@@ -4,6 +4,7 @@ Elemental Accordion block for SilverStripe.
 
 ## Install
 
+bash
 composer require marcd1983/element-accordion
 Requirements
 PHP 8.1+
@@ -47,3 +48,4 @@ bash
 Copy code
 
 composer install
+
