@@ -4,7 +4,7 @@ Elemental Accordion block for SilverStripe.
 
 ## Install
 
-`composer require marcd1983/element-accordion`
+`composer require Antlion/element-accordion`
 
 ## Requirements
 
@@ -36,9 +36,9 @@ Template/CSS/JS are intentionally minimal—style or enhance as needed in your t
 
 Override the default templates in your project theme by copying and editing:
 
-templates/Marcd1983/ElementAccordion/Elements/ElementAccordion.ss
+templates/Antlion/ElementAccordion/Elements/ElementAccordion.ss
 
-templates/Marcd1983/ElementAccordion/Includes/AccordionPanel.ss
+templates/Antlion/ElementAccordion/Includes/AccordionPanel.ss
 
 Flush after changing templates by appending ?flush=all to a site URL, e.g.:
 
