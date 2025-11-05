@@ -4,8 +4,7 @@ Elemental Accordion block for SilverStripe.
 
 ## Install
 
-```bash
-composer require marcd1983/element-accordion
+`composer require marcd1983/element-accordion`
 
 ## Requirements
 
