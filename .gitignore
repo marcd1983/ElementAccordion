@@ -7,6 +7,5 @@ dist/
 .DS_Store
 silverstripe-cache/
 /.cache/
-
 /coverage/
 /phpunit.xml
