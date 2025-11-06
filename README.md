@@ -4,7 +4,7 @@ Elemental Accordion block for SilverStripe.
 
 ## Install
 
-`composer require Antlion/element-accordion`
+`composer require antlion/element-accordion`
 
 ## Requirements
 
